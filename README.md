@@ -105,7 +105,7 @@ The notebook auto-detects existing checkpoints in `checkpoints/v2/` and resumes 
 
 | Epoch | Loss | Global Step |
 |-------|------|-------------|
-| 5 | **0.15** | 12,955 |
+| 55 | **0.15** | 12,955 |
 
 Target: loss < 1.0 ✓ achieved
 
